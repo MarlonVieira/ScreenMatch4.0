@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7126c56-e7b2-48d0-9c26-4ded91ce623c" name="Changes" comment="01. A new project using the Spring Framework.&#10;05/12/2025">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/ScreenmatchApplicationBackup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/controller/SerieController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/ScreenmatchApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/screenmatch/ScreenmatchApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +21,8 @@
       <list>
         <option value="Record" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -33,7 +37,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MarlonVieira/ScreenMatch3.0&quot;,
+    &quot;url&quot;: &quot;https://github.com/MarlonVieira/ScreenMatch4.0&quot;,
     &quot;accountId&quot;: &quot;72237d7f-d5e0-42ea-bad8-fc51dccd7f6e&quot;
   }
 }</component>
@@ -62,13 +66,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/marlon.vieira/Desktop/Alura/ScreenMatch3.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zirok/Desktop/Git/ScreenMatch4.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.alura.screenmatch.model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura.screenmatch" />
     </key>
   </component>
   <component name="RunManager">
