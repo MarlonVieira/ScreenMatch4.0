@@ -4,7 +4,6 @@ import br.com.alura.screenmatch.model.*;
 import br.com.alura.screenmatch.repository.SerieRepository;
 import br.com.alura.screenmatch.service.ConsumptionAPI;
 import br.com.alura.screenmatch.service.ConvertData;
-
 import java.util.*;
 import java.util.stream.Collectors;
 
