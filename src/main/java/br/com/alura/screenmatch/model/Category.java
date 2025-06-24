@@ -6,8 +6,8 @@ public enum Category {
     COMEDY("Comedy"),
     DRAMA("Drama"),
     CRIME("Crime"),
-    THRILLER("Thriller");
-    //ADVENTURE("Adventure");
+    THRILLER("Thriller"),
+    ADVENTURE("Adventure");
 
     private String categoryOMDB;
 

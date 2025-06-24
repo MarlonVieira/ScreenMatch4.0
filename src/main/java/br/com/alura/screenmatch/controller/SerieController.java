@@ -47,4 +47,9 @@ public class SerieController {
     public List<EpisodeDTO> getSeasonsByNumber(@PathVariable Long id, @PathVariable Long number) {
         return service.getSeasonsByNumber(id, number);
     }
+
+    @GetMapping("/category/{genre}")
+    public List<SerieDTO> getSerieByCategory(@PathVariable String genre) {
+        return service.getSerieByCategory(genre);
+    }
 }
